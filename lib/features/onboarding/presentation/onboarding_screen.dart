@@ -197,3 +197,23 @@ class _OnboardingPage extends StatelessWidget {
     );
   }
 }
+// class 
+//  extends StatefulWidget {
+//   const 
+//   ({super.key});
+
+//   @override
+//   State<
+//   > createState() => _
+//   State();
+// }
+
+// class _
+// State extends State<
+// > {
+//   @override
+//   Widget build(BuildContext context) {
+//     return const Placeholder();
+//   }
+// }
+//this is sample
